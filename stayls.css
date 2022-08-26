@@ -1,0 +1,52 @@
+body {
+    font-family: 'Playfair Display', serif;
+}
+
+.one li {
+    display: inline-block;
+    margin-right: 100px;
+    margin-top: 71px;
+}
+
+.one li:first-child {
+    margin-left: 315px;
+}
+
+.one li:last-child {
+    margin-right: 330px;
+}
+
+.one a {
+    color: #7D7D7D;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.one a:hover {
+    color: #03A9F4;
+}
+
+.two {
+    width: 420px;
+    padding: 92px 62px 126px 148px; 
+}
+
+.two h3 {
+    color: #B4AD9E;
+    font-family: "Ubuntu";
+    font-size: 14px;
+    margin-top: 62px;
+}
+
+.two h2 {
+    color: #626262;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.three {
+    border: 1px solid #626262;
+    padding: 20px 49px 21px 49px;
+    font-family: "Playfair Display";
+    margin: 0 577px 87px 555px;
+}
